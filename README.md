@@ -8,7 +8,7 @@
   
     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,express,python,java,mysql,docker,linux,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,express,python,java,mysql,docker,linux,haskell)](https://skillicons.dev)
 
   ##
  
