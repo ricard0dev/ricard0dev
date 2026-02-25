@@ -4,10 +4,7 @@
 **ricard0dev/ricard0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <div style="display: inline_block"><br>
-   
-  
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    
+       
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,express,mysql,python,java,docker,linux,haskell)](https://skillicons.dev)
 
   ##
