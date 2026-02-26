@@ -5,7 +5,7 @@
 
 <div style="display: inline_block"><br>
        
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,express,mysql,python,java,docker,linux,haskell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,express,mysql,python,java,linux,haskell)](https://skillicons.dev)
 
   ##
  
