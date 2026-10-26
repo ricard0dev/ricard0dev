@@ -1,5 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Eric!;Welcome+to+my+profile!/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00F7FF&width=600&lines=Hey,+I'm+Ricardo!;Welcome+to+my+profile!" />
 <!--
 **ricard0dev/ricard0dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
